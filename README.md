@@ -4,6 +4,7 @@ Barplans LaTeX'en er oprindeligt skrevet af Jakob Rørsted Mosumgaard, der var S
 ## Mål
 * Få barplans LaTeX'en lagt op et centralt sted, så det altid er nemt at finde.
 * Revider TeX'en, så den er letlæslig og nem at skrive ind i.
+* Integrer barplans TeX'en med den kommende barplans generator. 
 
 ## Dependencies
 * TKET-LaTeX pakken (https://github.com/TK-IT/tket-latex)
